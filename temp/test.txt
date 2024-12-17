@@ -1,1 +1,1 @@
-ignore estes arquivos
+ignore estes arquivos.
