@@ -6,5 +6,5 @@
 
 <p><b>Desenvolvedor deste projeto:</b></p>
 <img src=https://github.com/user-attachments/assets/68a2df2e-141d-4ee7-95c9-d766a60bf8b2
- width="200" height="250">
+ width="100" height="150">
 <p>Alexandre</p>
