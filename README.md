@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jogo do numero secreto</h1>
+  <h1>Jogo do número secreto</h1>
 </div>
 <p>Este jogo foi desenvolvido nos cursos da Alura</p>
 <p>Neste jogo a maquina gera um número aleatório e você tem que adivinhar com o menor número de tentativas.</p>
